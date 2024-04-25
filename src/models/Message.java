@@ -19,7 +19,7 @@ import javax.persistence.Table;
             )
 
 })
-@Table(name = "message")
+@Table(name = "messages")
 public class Message {
     @Id
     @Column
